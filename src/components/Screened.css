@@ -29,7 +29,7 @@
   .scroll-track {
     display: flex;
     gap: 40px;
-    animation: scroll 25s linear infinite;
+    animation: scroll 35s linear infinite;
     width: fit-content;
 
   }
