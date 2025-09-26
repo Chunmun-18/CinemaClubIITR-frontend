@@ -4,6 +4,9 @@
     padding: 1em 8em 5em 8em;
     background-color: #695533;
     /* margin-bottom: 20vw; */
+} 
+.events{
+    text-align: center;
 }
 .einfo-parent{
     /* border: 1px solid red; */
