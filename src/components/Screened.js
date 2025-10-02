@@ -4,6 +4,18 @@ import './Screened.css';
 function Screened() {
   const screened = [
     {
+      imgurl: "images/narsimha.jpg",
+      title: "Mahavtar Narsimha"
+    },
+    {
+      imgurl: "images/hit3.jpg",
+      title: "Hit 3"
+    },
+    {
+      imgurl: "images/Raid2.jpg",
+      title: "Raid 2"
+    },
+    {
       imgurl: "https://c.ndtvimg.com/gws/ms/kesari-chapter-2-all-you-need-to-know-about-akshay-kumars-film/assets/1.png",
       title: "Kesari 2"
     },
@@ -40,7 +52,7 @@ function Screened() {
       title: "URI"
     },
     {
-      imgurl: "https://upload.wikimedia.org/wikipedia/en/2/29/Bhediya_film_poster.jpg",
+      imgurl: "images/bhediya.jpg",
       title: "Bhediya"
     }
   ];

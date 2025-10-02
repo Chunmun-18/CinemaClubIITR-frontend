@@ -61,6 +61,11 @@ function Team() {
       img:"images/Vivek.jpg",
       position:"Outreach Head",
     },
+    {
+      Name:"Devansh Kamra",
+      img:"images/Devansh.png",
+      position:"Member",
+    }
 
   ]
   return (
